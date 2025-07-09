@@ -1,3 +1,4 @@
 Guacamole
 avocado
+salt
 lemon
